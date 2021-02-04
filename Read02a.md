@@ -10,6 +10,6 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 * Italic Text (* Text * )
 * Italic and bold Text ( *** Text *** )
 * put a website 
-   * example Google [Google](we put here the link)
-   [Google](http://google.com)
+   * example Google [ Google ](we put here the link)
    
+   [Google](http://google.com)
