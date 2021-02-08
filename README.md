@@ -10,5 +10,6 @@ Fresh graduate civil engineer
 | Read 02b | [Github](https://asim401.github.io/reading-notes1/read02b)
 | Read 03 | [Github](https://asim401.github.io/reading-notes1/Read03)
 | Read 04 | [Github](https://asim401.github.io/reading-notes1/Read04)
+| Read 05 | [Github](https://asim401.github.io/reading-notes1/Read05)
 | Growth and mindset | [Github](https://asim401.github.io/reading-notes1/Growth&mindset) |
 
